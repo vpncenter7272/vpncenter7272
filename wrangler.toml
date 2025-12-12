@@ -1,0 +1,3 @@
+name = "bpb-panel"
+main = "./dist/worker.js"
+compatibility_date = "2025-12-11"
